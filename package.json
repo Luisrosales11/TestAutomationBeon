@@ -1,0 +1,15 @@
+{
+  "name": "testautomationbeon",
+  "version": "1.0.0",
+  "description": "Challenge test for BEON Application",
+  "license": "ISC",
+  "author": "Luis Asuncion",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cypress": "^16.1.1"
+  }
+}
